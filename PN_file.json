@@ -1,0 +1,22 @@
+{
+  "audience": "all",
+  "notification": {
+    "alert": "titlePN"  },
+  "device_types": [
+    "ios",
+    "android"  ],
+  "message": {
+    "title": "Postman",
+    "body": "Body",
+    "content_type": "text/html",
+    "extra": {
+      "category": "{\"id\": \"4\", \"name\": \"Messages\"}",
+      "icon": "ic3G",
+      "actionText1": "Upgrade",
+      "action1": "exUrl:https://www.vodafone.com/content/index.html",
+      "actionText2": "Settings",
+      "action2": "app:Settings",
+      "body": "Bodyyyyyyyy",
+      "image": "https://file.kelleybluebookimages.com/kbb/base/house/2008/2008-BMW-3%20Series-FrontSide_BM328ICP081_505x375.jpg"    }
+  }
+}

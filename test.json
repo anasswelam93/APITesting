@@ -1,0 +1,12 @@
+{
+  "audience":"all",
+  "notification":
+  {
+    "alert":"titlePN"
+  },
+  "device_types":[
+    "ios",
+    "android"
+  ]
+
+}
